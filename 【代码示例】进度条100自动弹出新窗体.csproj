@@ -13,7 +13,7 @@
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
     <IsWebBootstrapper>true</IsWebBootstrapper>
-    <PublishUrl>ftp://69.176.89.49:22/Codeexample/</PublishUrl>
+    <PublishUrl>W:\LYKNSDeveloper\100\</PublishUrl>
     <Install>true</Install>
     <InstallFrom>Web</InstallFrom>
     <UpdateEnabled>true</UpdateEnabled>
@@ -23,16 +23,17 @@
     <UpdatePeriodically>false</UpdatePeriodically>
     <UpdateRequired>false</UpdateRequired>
     <MapFileExtensions>true</MapFileExtensions>
-    <InstallUrl>http://69.176.89.49/insiderpreview/Codeexample/</InstallUrl>
-    <SupportUrl>http://69.176.89.49/insiderpreview/Codeexample/</SupportUrl>
-    <ErrorReportUrl>http://69.176.89.49/insiderpreview/Codeexample/</ErrorReportUrl>
+    <InstallUrl>https://dev.lykns.tk/100/</InstallUrl>
+    <SupportUrl>https://www.lykns.tk/connect</SupportUrl>
+    <ErrorReportUrl>https://www.lykns.tk/</ErrorReportUrl>
+    <TargetCulture>zh-CN</TargetCulture>
     <ProductName>进度条100自动弹出新窗体</ProductName>
-    <PublisherName>LYK Network System</PublisherName>
+    <PublisherName>LYKNS</PublisherName>
     <SuiteName>代码示例</SuiteName>
     <CreateWebPageOnPublish>true</CreateWebPageOnPublish>
     <WebPage>publish.htm</WebPage>
-    <ApplicationRevision>2</ApplicationRevision>
-    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <ApplicationRevision>7</ApplicationRevision>
+    <ApplicationVersion>1.1.1.%2a</ApplicationVersion>
     <UseApplicationTrust>false</UseApplicationTrust>
     <PublishWizardCompleted>true</PublishWizardCompleted>
     <BootstrapperEnabled>true</BootstrapperEnabled>
