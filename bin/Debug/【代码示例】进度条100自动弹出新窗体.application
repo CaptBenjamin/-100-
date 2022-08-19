@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xrml="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <assemblyIdentity name="【代码示例】进度条100自动弹出新窗体.application" version="1.0.0.1" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <description asmv2:publisher="LYK Network System" co.v1:suiteName="代码示例" asmv2:product="进度条100自动弹出新窗体" asmv2:supportUrl="http://69.176.89.49/insiderpreview/Codeexample/" co.v1:errorReportUrl="http://69.176.89.49/insiderpreview/Codeexample/" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <deployment install="true" mapFileExtensions="true">
+    <subscription>
+      <update>
+        <beforeApplicationStartup />
+      </update>
+    </subscription>
+    <deploymentProvider codebase="http://69.176.89.49/insiderpreview/Codeexample/%E3%80%90%E4%BB%A3%E7%A0%81%E7%A4%BA%E4%BE%8B%E3%80%91%E8%BF%9B%E5%BA%A6%E6%9D%A1100%E8%87%AA%E5%8A%A8%E5%BC%B9%E5%87%BA%E6%96%B0%E7%AA%97%E4%BD%93.application" />
+  </deployment>
+  <compatibleFrameworks xmlns="urn:schemas-microsoft-com:clickonce.v2">
+    <framework targetVersion="4.8" profile="Full" supportedRuntime="4.0.30319" />
+  </compatibleFrameworks>
+  <dependency>
+    <dependentAssembly dependencyType="install" codebase="【代码示例】进度条100自动弹出新窗体.exe.manifest" size="3680">
+      <assemblyIdentity name="【代码示例】进度条100自动弹出新窗体.exe" version="1.0.0.1" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>fPq1ZUVLj6G/htj4SqUB6Q5sJPj18nzvktqShEJEwcE=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+</asmv1:assembly>
